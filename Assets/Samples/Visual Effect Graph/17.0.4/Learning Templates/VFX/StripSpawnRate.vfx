@@ -16,10 +16,10 @@ MonoBehaviour:
   - title: 'Sine Wave Oscillation '
     position:
       serializedVersion: 2
-      x: -1082
-      y: -597
-      width: 1367
-      height: 285
+      x: -1089
+      y: -598
+      width: 1378
+      height: 283
     contents:
     - model: {fileID: 8926484042661614994}
       id: 0
@@ -181,10 +181,10 @@ MonoBehaviour:
   categories: []
   uiBounds:
     serializedVersion: 2
-    x: -1082
+    x: -1089
     y: -781
-    width: 2252
-    height: 2375
+    width: 2259
+    height: 2330
 --- !u!114 &114350483966674976
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1205,7 +1205,7 @@ MonoBehaviour:
   m_UIIgnoredErrors: []
   m_Parent: {fileID: 114350483966674976}
   m_Children: []
-  m_UIPosition: {x: -1057, y: -415}
+  m_UIPosition: {x: -1064, y: -415}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots: []
@@ -3308,7 +3308,7 @@ MonoBehaviour:
   m_Children:
   - {fileID: 8926484042661615167}
   m_UIPosition: {x: 0, y: 0}
-  m_UICollapsed: 1
+  m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_MasterSlot: {fileID: 8926484042661615166}
   m_MasterData:
@@ -3345,7 +3345,7 @@ MonoBehaviour:
   - {fileID: 8926484042661615169}
   - {fileID: 8926484042661615170}
   m_UIPosition: {x: 0, y: 0}
-  m_UICollapsed: 1
+  m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_MasterSlot: {fileID: 8926484042661615166}
   m_MasterData:
